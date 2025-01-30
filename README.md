@@ -19,7 +19,7 @@ I'm a **Software Engineer, Web Developer, and Game Developer** passionate about 
 - GitHub: [Your GitHub Profile](https://github.com/Ultimate-69)   
 
 ### 🏆 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultimate-69&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimate-69&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
