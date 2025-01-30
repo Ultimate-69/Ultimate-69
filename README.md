@@ -18,6 +18,8 @@ I'm a **Software Engineer, Web Developer, and Game Developer** passionate about 
 ### 💻 Other Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://upload.wikimedia.org/wikipedia/commons/3/33/Visual_Studio_Code_1.35_icon.png)
+
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) 
 
 ## 🚀 What I'm Working On  
