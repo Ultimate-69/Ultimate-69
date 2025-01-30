@@ -27,7 +27,7 @@ I'm a **Software Engineer, Web Developer, and Game Developer** passionate about 
 
 ## 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ultimate-69)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/ultimate_42069)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/529382458945306649)  
 
 ### 🏆 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultimate-69&show_icons=true&theme=tokyonight)  
