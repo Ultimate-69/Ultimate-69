@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimate-69)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimate-69&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ultimate-69/Ultimate-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
