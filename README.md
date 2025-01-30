@@ -1,6 +1,4 @@
-<!--## Hello there, I'm Ultimate! 👋 -->
-
-# Hi there! 👋 I'm Ultimate!
+# Hi there, I'm Ultimate! 👋
 
 I'm a **Software Engineer, Web Developer, and Game Developer** passionate about creating interactive experiences and building efficient, scalable web applications.
 
