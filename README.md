@@ -7,8 +7,8 @@ I'm a **Software Engineer, Web Developer, and Game Developer** passionate about 
 
 ## 🔧 Technologies & Tools  
 - 🌐 Web Development: **HTML, CSS, JavaScript**  
-- 🎮 Game Development: **Unity Engine, Godot Engine, Roblox Studio**  
-- 💻 Other: Git, VS Code, Blender.
+- 🎮 Game Development: **Unity Engine, Godot Engine**
+- 💻 Other: Git, VS Code, Blender
 
 ## 🚀 What I'm Working On  
 - Developing web applications with modern front-end technologies
