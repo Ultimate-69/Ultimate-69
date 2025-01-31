@@ -25,8 +25,8 @@
 
 #### <div align="center">🎮 Game Development</div>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="40" height="40">
 </p>
 
 #### <div align="center">💻 Coding Languages</div>
