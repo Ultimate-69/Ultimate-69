@@ -15,7 +15,7 @@
 
 ### 🚀 Technologies & Tools
 
-#### 🌐 Web Development
+#### <div align="center">🌐 Web Development</div>
 <p align="center">
   <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/css3.png">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-#### 🎮 Game Development
+#### <div align="center">🎮 Game Development</div>
 <p align="center">
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40" height="40">
 </p>
 
-#### 🛠 Other Tools
+#### <div align="center">🛠️ Other Tools</div>
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
