@@ -38,9 +38,9 @@
 
 #### <div align="center">🛠️ Other Tools</div>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40">
 </p>
 
 ---
