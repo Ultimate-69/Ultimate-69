@@ -14,7 +14,7 @@
 
 ### 🚀 Technologies & Tools
 
-#### <div align="center">🌐 Web Development</div>
+### <div align="center">🌐 Web Development</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
@@ -22,13 +22,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
 </p>
 
-#### <div align="center">🎮 Game Development</div>
+### <div align="center">🎮 Game Development</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="40" height="40">
 </p>
 
-#### <div align="center">💻 Coding Languages</div>
+### <div align="center">💻 Coding Languages</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40" height="40">
 </p>
 
-#### <div align="center">🛠️ Other Tools</div>
+### <div align="center">🛠️ Other Tools</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
