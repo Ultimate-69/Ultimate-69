@@ -47,15 +47,15 @@
 
 ### 🔥 What I'm Working On
 - 🚀 Developing **modern web applications** with **HTML, CSS, & JavaScript**
-- 🎮 Creating **immersive games** using primarily the **Unity Engine**
+- 🎮 Creating **immersive games** using primarily **Unity Engine**
 - 🔍 Exploring **new technologies and frameworks**
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/Ultimate-69"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://discordapp.com/users/529382458945306649"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/Ultimate-69"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"></a>
+  <a href="https://discordapp.com/users/529382458945306649"><img src="https://github.com/devicons/devicon/blob/master/icons/discord/discord-original.svg" width="40" height="40"></a>
 </p>
 
 ---
