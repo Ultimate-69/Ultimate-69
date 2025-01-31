@@ -52,14 +52,6 @@
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://github.com/Ultimate-69"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"></a>
-  <a href="https://discordapp.com/users/529382458945306649"><img src="https://github.com/devicons/devicon/blob/master/icons/discord/discord-original.svg" width="40" height="40"></a>
-</p>
-
----
-
 ### 🏆 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ultimate-69&show_icons=true&theme=tokyonight">
