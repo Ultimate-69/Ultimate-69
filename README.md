@@ -4,12 +4,6 @@
   <b>Software Engineer | Web Developer | Game Developer</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Views-100K-purple?style=flat-square" alt="Views">
-  <img src="https://img.shields.io/badge/Total%20Stars-2000-red?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/badge/Total%20Forks-500-orange?style=flat-square" alt="Forks">
-</p>
-
 ---
 
 ### 📌 About Me
