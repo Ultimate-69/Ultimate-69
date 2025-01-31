@@ -1,33 +1,43 @@
-<h1 align="center">Hey 👋, I'm [YourName]!</h1>
+# Hi there, I'm Ultimate! 👋
 
-<p align="center">
-  <b>I'm a [Your Age] year old [Your Role] and Content Creator.</b>
-</p>
+I'm a **Software Engineer, Web Developer, and Game Developer** passionate about creating interactive experiences and building efficient, scalable web applications.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Views-103,732-purple?style=flat-square" alt="Views">
-  <img src="https://img.shields.io/badge/Total%20Stars-2517-red?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/badge/Total%20Forks-743-orange?style=flat-square" alt="Forks">
-</p>
+## 🔧 Technologies & Tools  
 
-## 🚀 About Me
-- 🔹 Ask me about: **System Scripting, Windows API, Reverse Engineering, and Tutorial-Style Content Creation**.
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## 🛠️ Tools & Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-</p>
+### 🎮 Game Development  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) 
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) 
 
-## 📊 Contribution Snake
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+## 💻 Coding Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+### 💻 Other Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) 
+
+## 🚀 What I'm Working On  
+- Developing web applications with modern front-end technologies  
+- Building immersive games primarily using Unity Engine  
+- Exploring new technologies and frameworks to expand my skill set  
+
+## 📫 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ultimate-69)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/529382458945306649)
+
+## 🏆 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultimate-69&show_icons=true&theme=tokyonight)  
+<br>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimate-69&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
-<p align="center">
-  <b>Connect with me:</b><br>
-  🌐 [Website](https://yourwebsite.com) | 🐦 [Twitter](https://twitter.com/yourprofile) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-</p>
+
