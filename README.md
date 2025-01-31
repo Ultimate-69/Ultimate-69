@@ -8,7 +8,6 @@
 
 ### 📌 About Me
 - 💡 Passionate about **game development**, **web applications**, and **interactive experiences**
-- ⚙️ Experienced with **front-end & back-end technologies**
 - 🎯 Always learning and exploring new **frameworks & tools**
 
 ---
