@@ -46,13 +46,6 @@
 
 ---
 
-### 📊 GitHub Contributions
-<p align="center">
-  <img src="https://github.com/Ultimate-69/Ultimate-69/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/Ultimate-69"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
