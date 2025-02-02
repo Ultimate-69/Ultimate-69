@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="40" height="40">
 </p>
 
-### <div align="center">💻 Coding Languages</div>
+### <div align="center">💻 Programming Languages</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
