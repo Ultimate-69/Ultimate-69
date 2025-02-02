@@ -46,7 +46,7 @@
 ---
 
 ### 🔥 What I'm Working On
-- 🚀 Developing **modern web applications** with **HTML, CSS, & JavaScript**
+- 🚀 Developing **modern web applications** with **HTML, CSS, React, & JavaScript**
 - 🎮 Creating **immersive games** using primarily **Unity Engine**
 - 🔍 Exploring **new technologies and frameworks**
 
