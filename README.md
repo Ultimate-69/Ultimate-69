@@ -38,11 +38,10 @@
 
 ---
 
-### 🔥 What I'm Working On
-- 🚀 Developing **modern web applications** with **HTML, CSS, React, & JavaScript**
-- 🎮 Creating **immersive games** using primarily **Unity Engine**
-- 📱 Developing **mobile applications** with **React Native or Flutter**
-- 🔍 Exploring **new technologies and frameworks**
+### 🔥 What I Can Do
+- 🚀 Develop **modern web applications** with **HTML, CSS, React, & JavaScript**
+- 🎮 Create **immersive games** using **Unity Engine**
+- 📱 Develop **cross platform applications** with **React Native or Flutter**
 
 ---
 
