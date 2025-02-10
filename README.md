@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
 </p>
 
-### <div align="center">🌐 Frameworks and Libraries</div>
+### <div align="center">🌐 Frameworks and Tools</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40">
