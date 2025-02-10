@@ -16,11 +16,10 @@
 
 ### <div align="center">💻 Programming Languages</div>
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
 </p>
 
 ### <div align="center">🌐 Frameworks and Tools</div>
