@@ -7,7 +7,7 @@
 ---
 
 ### 📌 About Me
-- 💡 Passionate about **game development**, **web applications**, **mobile apps**, and **interactive experiences**
+- 💡 Passionate about **game development**, **web applications**, **cross platform apps**, and **interactive experiences**
 - 🎯 Always learning and exploring new **frameworks & tools**
 
 ---
