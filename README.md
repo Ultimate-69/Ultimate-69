@@ -40,8 +40,9 @@
 
 ### 🔥 What I Can Do
 - 🚀 Develop **modern web applications** with **HTML, CSS, React, & JavaScript**
-- 🎮 Create **immersive games** using **Unity Engine**
-- 📱 Develop **cross platform applications** with **React Native or Flutter**
+- 🎮 Create **immersive games** using **Unity Engine and C#**
+- 📱 Develop **dynamic applications** with **React Native or Flutter**
+- 👨‍💻 Write **useful scripts** with **Python and C++**
 
 ---
 
