@@ -25,17 +25,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40">
 </p>
 
-### <div align="center">👨‍💻 Other Languages</div>
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-</p>
-
 ### <div align="center">🌐 Frameworks and Libraries</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40">
+</p>
+
+### <div align="center">👨‍💻 Other Languages</div>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
 </p>
 
 
