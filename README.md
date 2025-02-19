@@ -50,7 +50,7 @@
 ### 🏆 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimate-69&theme=onedark&&hide=css,mathematica">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimate-69&theme=onedark&&hide=css,mathematica&&langs_count=8">
   </a>
 </p>
 
