@@ -43,7 +43,7 @@
 - 🚀 Develop **modern web applications** with **HTML, CSS, React, & JavaScript**
 - 🎮 Create **immersive games** using **Unity Engine and C#**
 - 📱 Develop **dynamic applications** with **React Native or Flutter**
-- 👨‍💻 Write **useful scripts** with **Python, Java and C++**
+- 👨‍💻 Write **useful scripts** with **Python, Java, C#, and C++**
 
 ---
 
