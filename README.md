@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
+  <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2047-5s6wkmk1.png" width="40" height="40">
 </p>
 
 ### <div align="center">🌐 Frameworks and Tools</div>
