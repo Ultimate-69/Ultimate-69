@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
   <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png" width="40" height="40">
@@ -29,6 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40">
 </p>
 
 ### <div align="center">👨‍💻 Other Languages</div>
